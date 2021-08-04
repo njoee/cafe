@@ -3,7 +3,13 @@ current/*
 versions/*
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 current/yarn.lock
+=======
+.ghost-cli
+.ghostpid
+config-development.json
+>>>>>>> parent of 984af22d (limited ghost source code)
 =======
 .ghost-cli
 .ghostpid
