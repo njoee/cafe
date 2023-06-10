@@ -7,7 +7,7 @@ let allVideos = [
    },
    {
       name: "Firewatch",
-      src: "https://secure.archives.cafe/anny/45545911357.mp4",
+      src: "https://secure.archives.cafe/anny/45545911357.mp4#t=3629",
       poster: "https://secure.archives.cafe/anny/45545911357.jpg",
       id: "vod_2"
    },
