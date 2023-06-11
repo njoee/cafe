@@ -166,7 +166,7 @@ ul li.playing .row span::before
    border: 0.5px solid #1d3541;
 }
 
-@media(max-width: 1092px){
+@media(max-width: 1925px){
     section
     {
         padding: 30px 10px;
