@@ -1,7 +1,7 @@
 let allVideos = [
    {
       name: "TUNIC (Part 3)",
-      src: "https://secure.archives.cafe/anny/45997436141.mp4#t=10175",
+      src: "https://secure.archives.cafe/anny/45997436141.mp4#t=8755",
       poster: "https://secure.archives.cafe/anny/45997436141.jpg",
       id: "vod_1"
    },
