@@ -1,25 +1,7 @@
 let allVideos = [
    {
-      name: "TUNIC (Part 3)",
-      src: "https://secure.archives.cafe/anny/45997436141.mp4#t=9955",
-      poster: "https://secure.archives.cafe/anny/45997436141.jpg",
-      id: "vod_1"
-   },
-   {
-      name: "TUNIC (Part 4)",
-      src: "https://secure.archives.cafe/anny/39300866663.mp4#t=713",
-      poster: "https://secure.archives.cafe/anny/39300866663.jpg",
-      id: "vod_2"
-   },
-   {
-      name: "Beginner's Guide",
-      src: "https://secure.archives.cafe/anny/43582013261.mp4#t=1106",
-      poster: "https://secure.archives.cafe/anny/43582013261.jpg",
-      id: "vod_3"
-   },
-   {
       name: "Firewatch",
-      src: "https://secure.archives.cafe/anny/45545911357.mp4#t=3629",
+      src: "https://secure.archives.cafe/anny/45545911357.mp4#t=8465",
       poster: "https://secure.archives.cafe/anny/45545911357.jpg",
       id: "vod_4"
    },
