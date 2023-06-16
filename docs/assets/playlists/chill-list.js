@@ -1,6 +1,6 @@
 let allVideos = [
    {
-      name: "Undertale Gen Run 3",
+      name: "Megalovania 4h Ver.",
       src: "https://secure.archives.cafe/anny/39345137339.mp4#t=6395",
       poster: "https://secure.archives.cafe/anny/39345137339.jpg",
       id: "vod_1"
@@ -46,5 +46,5 @@ let allVideos = [
       src: "https://secure.archives.cafe/anny/45513028141.mp4#t=12325",
       poster: "https://secure.archives.cafe/anny/45513028141.jpg",
       id: "vod_8"
-   },
+   }
 ]
