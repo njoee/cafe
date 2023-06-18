@@ -19,12 +19,12 @@ let allVideos = [
    },
    {
         name: "Portal (Part 1)",
-        src: "https://secure.archives.cafe/anny/41622345597.mp4#t=5198",
+        src: "https://secure.archives.cafe/anny/41622345597-hl.mp4",
         id: "vod_4"   
    },
    {
         name: "Portal (Part 2)",
-        src: "https://secure.archives.cafe/anny/41635418893.mp4#t=4891",
+        src: "https://secure.archives.cafe/anny/41635418893-hl.mp4",
         id: "vod_5"   
    },
    {
