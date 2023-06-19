@@ -6,35 +6,23 @@ let allVideos = [
       id: "vod_1"
    },
    {
-      name: "Powerwash Simulator",
-      src: "https://secure.archives.cafe/anny/45498742685.mp4#t=3836",
-      poster: "https://secure.archives.cafe/anny/45498742685.jpg",
-      id: "vod_2"
-   },
-   {
-      name: "House Flipper",
-      src: "https://secure.archives.cafe/anny/45513028141.mp4#t=12325",
-      poster: "https://secure.archives.cafe/anny/45513028141.jpg",
-      id: "vod_3"
-   },
-   {
         name: "Portal (Part 1)",
         src: "https://secure.archives.cafe/anny/41622345597-hl.mp4",
-        id: "vod_4"   
+        id: "vod_2"   
    },
    {
         name: "Portal (Part 2)",
         src: "https://secure.archives.cafe/anny/41635418893-hl.mp4",
-        id: "vod_5"   
+        id: "vod_3"   
    },
    {
         name: "Portal 2 (Part 1)",
         src: "https://secure.archives.cafe/anny/41679706157.mp4#t=1620",
-        id: "vod_6"   
+        id: "vod_4"   
    },
    {
         name: "Portal 2 (Part 2)",
         src: "https://secure.archives.cafe/anny/39310982331.mp4#t=2235",
-        id: "vod_7"   
+        id: "vod_5"   
    }
 ]
