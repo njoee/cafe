@@ -1,7 +1,7 @@
 let allVideos = [
    {
       name: "BIG BRAIN TIME WITH HAWOOKA (Escape Sim, Superliminal, Minecraft)",
-      src: "https://secure.archives.cafe/anny/44677238525.mp4",
+      src: "https://secure.archives.cafe/anny/44677238525.mp4#t=194",
       poster: "https://secure.archives.cafe/anny/44677238525.jpg",
       id: "vod_1"
    },
