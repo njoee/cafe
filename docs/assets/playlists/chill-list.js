@@ -15,13 +15,18 @@ let allVideos = [
       id: "vod_3"
    },
    {
+      name: "Keep Talking and Nobody Explodes (w/Haruka)",
+      src: "https://secure.archives.cafe/anny/39348756391.mp4#t=2611",
+      id: "vod_4"
+   },
+   {
       name: "There is No Game (1)",
       src: "https://secure.archives.cafe/anny/44540038397.mp4#t=5496",
-      id: "vod_4"
+      id: "vod_5"
    },
    {
       name: "There is No Game (2)",
       src: "https://secure.archives.cafe/anny/44551900573.mp4#t=5496",
-      id: "vod_5"
+      id: "vod_6"
    }
 ]
