@@ -26,22 +26,7 @@ let allVideos = [
    },
    {
       name: "SOMA (Part 1)",
-      src: "https://secure.archives.cafe/anny/39310293287.mp4",
+      src: "https://secure.archives.cafe/anny/39310293287x.mp4",
       id: "vod_6"
-   },
-   {
-      name: "SOMA (Part 2)",
-      src: "https://secure.archives.cafe/anny/39317699831.mp4",
-      id: "vod_7"
-   },
-   {
-      name: "SOMA (Part 3)",
-      src: "https://secure.archives.cafe/anny/39801264263.mp4",
-      id: "vod_8"
-   },
-   {
-      name: "SOMA (Part 4)",
-      src: "https://secure.archives.cafe/anny/39809289751.mp4",
-      id: "vod_9"
    }
 ]
