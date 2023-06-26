@@ -26,7 +26,7 @@ let allVideos = [
    },
    {
       name: "SOMA (Part 1)",
-      src: "https://secure.archives.cafe/anny/39310293287x.mp4#t=5496",
+      src: "https://secure.archives.cafe/anny/44551900573x.mp4#t=5496",
       id: "vod_6"
    }
 ]
