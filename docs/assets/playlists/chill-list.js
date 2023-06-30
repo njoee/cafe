@@ -16,7 +16,7 @@ let allVideos = [
    },
    {
       name: "Terraria August 2022 (Last Part of July Series?)",
-      src: "https://secure.archives.cafe/anny/39538620823.mp4#t=1800",
+      src: "https://secure.archives.cafe/anny/39538754375.mp4#t=16200",
       id: "vod_4"
    },
    {
