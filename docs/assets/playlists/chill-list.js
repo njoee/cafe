@@ -17,6 +17,6 @@ let allVideos = [
    {
       name: "getfixedboi Terraria Oct 2022 (2)",
       src: "https://secure.archives.cafe/anny/39765276519.mp4#t=2077",
-      id: "vod_2"
+      id: "vod_4"
    }
 ]
