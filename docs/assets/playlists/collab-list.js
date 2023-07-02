@@ -18,5 +18,5 @@ let allVideos = [
       name: "Hollow Knight (final)",
       src: "https://secure.archives.cafe/anny/44057016685.mp4#t=6722",
       id: "vod_4"
-   },
+   }
 ]
