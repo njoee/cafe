@@ -1,22 +1,22 @@
 let allVideos = [
    {
-      name: "Hollow Knight Part 1",
-      src: "https://secure.archives.cafe/anny/43921044045.mp4#t=1018",
+      name: "getfixedboi Terraria Oct 2022 (1)",
+      src: "https://secure.archives.cafe/anny/39760345287.mp4#t=1833",
       id: "vod_1"
    },
    {
-      name: "React & Solo Terraria (@3h9m) June 2021",
-      src: "https://secure.archives.cafe/anny/39572562363.mp4#t=4134",
+      name: "getfixedboi Terraria Oct 2022 (2)",
+      src: "https://secure.archives.cafe/anny/39765276519.mp4#t=2077",
       id: "vod_2"
    },
    {
-      name: "osu! and Solo Terraria July 2022",
-      src: "https://secure.archives.cafe/anny/39486783623.mp4#t=739",
+      name: "Hollow Knight (3)",
+      src: "https://secure.archives.cafe/anny/44045697229.mp4#t=4458",
       id: "vod_3"
    },
    {
-      name: "Crab Game, PUBG, Honkai Star Rail Feb 2023",
-      src: "https://secure.archives.cafe/anny/40261277367.mp4#t=4884,13876",
+      name: "Hollow Knight (final)",
+      src: "https://secure.archives.cafe/anny/44057016685.mp4#t=6722",
       id: "vod_4"
-   }
+   },
 ]
