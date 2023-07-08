@@ -1,7 +1,7 @@
 let allVideos = [
    {
       name: "Minecraft VSJ Server Oct 2021 (6)",
-      src: "https://secure.archives.cafe/anny/44198241165.mp4#t=3300",
+      src: "https://secure.archives.cafe/anny/44198241165.mp4#t=20660",
       id: "vod_1"
    },
    {
