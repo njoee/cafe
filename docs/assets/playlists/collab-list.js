@@ -1,12 +1,12 @@
 let allVideos = [
    {
-      name: "Minecraft VSJ Server Oct 2021 (6)",
-      src: "https://secure.archives.cafe/anny/44198241165.mp4#t=20660",
+      name: "First Time Ring Fit + Rabi Ribi",
+      src: "https://secure.archives.cafe/anny/43213281101.mp4#t=663",
       id: "vod_1"
    },
    {
-      name: "Minecraft VSJ Server Oct 2021 (7)",
-      src: "https://secure.archives.cafe/anny/44209167917.mp4#t=898",
+      name: "Untitled Goose Game",
+      src: "https://secure.archives.cafe/anny/44656209213.mp4#t=972",
       id: "vod_2"
    },
    {
